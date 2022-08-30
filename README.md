@@ -4,7 +4,7 @@ Written in Python using MongoDB Cloud Database and Imgur
 
 Following python libraries are required to run the inventory tool and need to be installed via pip:
 
-pip install pymongo[srv] \n
+pip install pymongo[srv] <br/>
 pip installopencv-python
 pip installpillow
 pip installxlsxwriter

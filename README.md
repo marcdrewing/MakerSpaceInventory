@@ -4,11 +4,12 @@ Written in Python using MongoDB Cloud Database and Imgur
 
 Following python libraries are required to run the inventory tool and need to be installed via pip:
 pymongo
-cv2
-PIL
+opencv-python
+pillow
 xlsxwriter
 pyimgur
 python-barcode
+qrcode
 
 
 To use the tool a MongoDB Atlas Cluster is required: https://www.mongodb.com/

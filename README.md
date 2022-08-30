@@ -22,7 +22,7 @@ To use the tool a MongoDB Atlas Cluster is required: https://www.mongodb.com/
 7) open the settings.txt and paste the code from earlier to "connection_string= "
 8) Change the copied code similar to the following snippet:"mongodb+srv://<username>:<password>@cluster0.jaa9a.mongodb.net/"
 9) Enter your username and password
-10) Configure the rest of the settings.txt
+10) Configure the rest of the settings.txt (make sure not to leave spaces between the "=" and the entered information)
   
 You can now use the MakerSpace Inventory Tool :)
   

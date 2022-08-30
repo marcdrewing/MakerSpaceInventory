@@ -1,7 +1,7 @@
 # MakerSpaceInventory
-Tool for Organizing Inventory in MakerSpaces
-Written in Python using MongoDB Cloud Database and Imgur 
-I am not a programmer, so please have mercy. The tool is still in developement. Feel free to report bugs.
+Tool for Organizing Inventory in MakerSpaces.<br/>
+Written in Python using MongoDB Cloud Database and Imgur.<br/>
+I am not a programmer, so please have mercy. The tool is still in developement. Feel free to report bugs.<br/>
 
 Following python libraries are required to run the inventory tool and need to be installed via pip: <br/>
 

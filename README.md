@@ -3,7 +3,7 @@ Tool for Organizing Inventory in MakerSpaces
 Written in Python using MongoDB Cloud Database and Imgur 
 
 Following python libraries are required to run the inventory tool and need to be installed via pip:
-pymongo
+pymongo[srv]
 opencv-python
 pillow
 xlsxwriter

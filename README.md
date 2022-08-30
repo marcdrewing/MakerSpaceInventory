@@ -5,12 +5,12 @@ Written in Python using MongoDB Cloud Database and Imgur
 Following python libraries are required to run the inventory tool and need to be installed via pip: <br/>
 
 pip install pymongo[srv] <br/>
-pip installopencv-python <br/>
-pip installpillow <br/>
-pip installxlsxwriter <br/>
-pip installpyimgur <br/>
-pip installpython-barcode <br/>
-pip installqrcode <br/>
+pip install opencv-python <br/>
+pip install pillow <br/>
+pip install xlsxwriter <br/>
+pip install pyimgur <br/>
+pip install python-barcode <br/>
+pip install qrcode <br/>
 
 
 To use the tool a MongoDB Atlas Cluster is required: https://www.mongodb.com/
@@ -25,9 +25,9 @@ To use the tool a MongoDB Atlas Cluster is required: https://www.mongodb.com/
 9) Enter your username and password
 10) Configure the rest of the settings.txt (make sure not to leave spaces between the "=" and the entered information)
   
-You can now use the MakerSpace Inventory Tool :)
+You can now use the MakerSpace Inventory Tool :) <br/>
   
-(Save Pictures to Imgur for using the companion App)
-(In order to save the item pictures online for using the app a imgur account is required)
-(Create an application: https://api.imgur.com/oauth2/addclient)
+(Save Pictures to Imgur for using the companion App) <br/>
+(In order to save the item pictures online for using the app a imgur account is required) <br/>
+(Create an application: https://api.imgur.com/oauth2/addclient) <br/>
  
